@@ -42,7 +42,7 @@ Depending on how much you rely on having a PC, you might even be able to get awa
 
 Get the [Universal Android Debloater](https://github.com/0x192/universal-android-debloater). Using it is quite an involved process, so read the instructions first. Use it to uninstall at least `com.android.chrome` and `com.android.vending` (the Play Store).
 
-If you want to take a step further and turn your phone back into a phone, you'll need to apply a bit of citizen computer science. Flash [LineageOS](https://lineageos.org/) to your phone and use the UAD to remove `org.lineageos.jelly` (the web browser). Note that if you depend on any mainstream apps, it _will_ be a pain to get them on LineageOS. Many won't work. If you really need them, try using [Raccoon](https://raccoon.onyxbits.de/).
+If you want to take a step further and turn your phone back into a phone, you'll need to apply a bit of citizen computer science. Flash [LineageOS](https://lineageos.org/) to your phone and use the UAD to remove `org.lineageos.jelly` (the web browser). You'll be able to get some apps that can be downloaded as `.apk` files straight from the publisher, such as [Signal](https://signal.org/android/apk/) and [Aegis](https://github.com/beemdevelopment/Aegis/releases/tag/v2.2.2), but note that if you depend on any Play Store apps, it _will_ be a pain to get them on LineageOS. Many won't work. If you really need one or two, try using [Raccoon](https://raccoon.onyxbits.de/).
 
 Depending on your requirements, you can even [build LineageOS](https://wiki.lineageos.org/devices/bacon/build/) yourself and exclude `jelly`. You will need to be reasonably good with computers to do this.
 
