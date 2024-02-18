@@ -26,11 +26,11 @@ Get rid of it. Replace it with a SFF (Small Form Factor) PC such as a Mac Mini. 
 
 If you have all of these at home, get rid of at least one so your machine can't be used there. All of the above components can be found in public places such as your university library, or office at work.
 
-Depending on how much you rely on having a PC, you might even be able to get away with not replacing it with anything at all. Some people's information work can be taken care of entirely at the library, university, or the office.
+Depending on how much you rely on having a PC, you might even be able to get away with not replacing it with anything at all. Some people's information work can be taken care of entirely using some combination of a smartphone, the library, a university campus, and the office.
 
-## Phone
+## Phone/Tablet
 
-### iPhone
+### iPhone/iPad
 
 1. Turn on Screen Time.
 
