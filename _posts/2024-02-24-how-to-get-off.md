@@ -54,9 +54,9 @@ Depending on your requirements, you can even [build LineageOS](https://wiki.line
 
 ### "Feature Phone"
 
-Forget it. Get an iPhone or Fairphone.
+Forget it. **Get an iPhone or Fairphone**.
 
 ### Facebook Messenger
 
-Get rid of it. Unlike most other instant messaging apps, Messenger **contains its own web browser**, so even if you've removed your phone's browser, you can open any link simply by sending it to yourself and clicking on it. No joke. Try it yourself.
+**Get rid of**. Unlike most other instant messaging apps, Messenger contains its own web browser, so even if you've removed your phone's browser, you can open any link simply by sending it to yourself and clicking on it. No joke. Try it yourself.
 
