@@ -5,7 +5,7 @@ author: Adam
 
 ![Front gate at the Croft](/assets/images/DSC_0078.jpeg "Front gate at the Croft")
 
-I was buying a CD player from someone on Gumtree when I put it as succinctly as I ever had.
+I was buying a CD player from someone off of Gumtree when I put it as succinctly as I ever had.
 
 'In a sentence? It ruined my life.'
 
