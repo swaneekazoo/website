@@ -5,16 +5,6 @@ author: Adam
 
 ![Front gate at the Croft](/assets/images/DSC_0078.jpeg "Front gate at the Croft")
 
-I was buying a CD player from someone off of Gumtree when I put it as succinctly as I ever had.
-
-'In a sentence? It ruined my life.'
-
-From my first exposure to _it_ at 11 years old, it was only after 11 more years that I discovered that I was incapable of sex. After some reflection, I decided that porn had violated me as a child—not much consolation when I was now being slowly crushed by depression. I'd always carried an indestructible hope that somewhere out there, the real thing was always patiently waiting—the uncomplicated and perfect union of two people for mutual pleasure. Porn would all be forgotten and I would give myself without self-consciousness to someone else. That hope is still missing in action.
-
-I also found that despite pornography's ruinous effects on my mental health, I was a hopeless fiend. Of all the things to become addicted to, I couldn't think of anything that could make me feel more starkly alone in my humiliation (until I realised I wasn't).
-
-It happens. At the same time, if you find yourself in this situation, it helps to take full responsibility because nobody else is coming to the rescue. We're past arguing about whether 11-year-olds should be able to access hardcore pornography using a computer they can carry in their pockets at all times—it's been decided, and the answer is yes. If you want to create some distance between yourself and porn, it's down to you. You'll need to apply some citizen computer science, but it's worth it. _You're_ worth it.
-
 ## PC
 
 If you own a:
@@ -58,5 +48,5 @@ Forget it. Get an iPhone or Fairphone.
 
 ### Facebook Messenger
 
-Get rid of it. Unlike most other instant messaging apps, Messenger contains its own web browser, so even if you've removed your phone's browser, you can open any link simply by sending it to yourself and clicking on it. No joke. Try it yourself.
+Get rid of it. Unlike most other instant messaging apps, Messenger contains its own web browser, so even if you've removed your phone's browser, you can open any link simply by sending it to yourself and clicking on it.
 
