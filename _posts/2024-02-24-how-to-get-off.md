@@ -9,7 +9,7 @@ I was buying a CD player from someone off of Gumtree when I put it as succinctly
 
 'In a sentence? It ruined my life.'
 
-From my first exposure to _it_ at 11 years old, it was only after 11 more years that I discovered that I was incapable of sex. After some reflection, I decided that porn had violated me as a child—not much consolation when I was now being slowly crushed by depression. I'd always carried an indestructible hope that somewhere out there, the real thing was always patiently waiting—the simple and uncomplicated union of two people for mutual pleasure. Porn would all be forgotten and I would give myself without self-consciousness to someone else. That hope is still missing in action.
+From my first exposure to _it_ at 11 years old, it was only after 11 more years that I discovered that I was incapable of sex. After some reflection, I decided that porn had violated me as a child—not much consolation when I was now being slowly crushed by depression. I'd always carried an indestructible hope that somewhere out there, the real thing was always patiently waiting—the uncomplicated and perfect union of two people for mutual pleasure. Porn would all be forgotten and I would give myself without self-consciousness to someone else. That hope is still missing in action.
 
 I also found that despite pornography's ruinous effects on my mental health, I was a hopeless fiend. Of all the things to become addicted to, I couldn't think of anything that could make me feel more starkly alone in my humiliation (until I realised I wasn't).
 
