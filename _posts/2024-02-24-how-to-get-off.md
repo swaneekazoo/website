@@ -13,7 +13,7 @@ From my first exposure to _it_ at 11 years old, it was only after 11 more years 
 
 I also found that despite pornography's ruinous effects on my mental health, I was a hopeless fiend. Of all the things to become addicted to, I couldn't think of anything that could make me feel more starkly alone in my humiliation (until I realised I wasn't).
 
-It happens. Even if it's shrouded in shame, we all use the Internet so it's more common than anybody is willing to admit. At the same time, if you find yourself in this situation, it helps to take full responsibility, because nobody else is coming to the rescue. We're past arguing about whether 11-year-olds should be able to access hardcore pornography using a computer they can carry in their pockets at all times—it's been decided, and the answer is yes. If you want to create some distance between yourself and porn, it's down to you. You'll need to apply some citizen computer science, but it's worth it. _You're_ worth it.
+It happens. At the same time, if you find yourself in this situation, it helps to take full responsibility because nobody else is coming to the rescue. We're past arguing about whether 11-year-olds should be able to access hardcore pornography using a computer they can carry in their pockets at all times—it's been decided, and the answer is yes. If you want to create some distance between yourself and porn, it's down to you. You'll need to apply some citizen computer science, but it's worth it. _You're_ worth it.
 
 ## PC
 
